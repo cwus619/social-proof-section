@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/desktop-first-workflow-using-css-grid-and-flexbox-9Eu-CH2Yf]
 - Live Site URL: [https://cwus619.github.io/social-proof-section/]
 
 ## My process
