@@ -24,8 +24,12 @@ body{
 }
 
 .container{
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto; 
   padding: 20px 100px;
   height: 100%;
+  max-width: 1312px;
 }
 
 /* top half styling */
@@ -95,13 +99,10 @@ h1{
 }
 
 .r2{
-  /* margin-left: 75px; */
   margin-left:16%;
 }
 
 .r3{
-  /* align-self: right; */
-  /* margin-left: 130px;*/
   margin-left: 30%;
 }
 
@@ -120,7 +121,9 @@ h1{
   border: hidden;
   border-radius: 10px;
   height: fit-content;
+  max-height: 192px;
   width:fit-content;
+  max-width:383px;
   align-items: stretch;
   line-height: 25px;
 }
@@ -170,7 +173,7 @@ h1{
   padding:2.5px 10px;
 }
 
-@media screen and (max-width:1440px) {
+@media screen and (max-width:1320px) {
   .r2{
     margin-left: 7.5%;
   }
